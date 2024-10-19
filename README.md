@@ -4,7 +4,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng0ZnlmcDhtNm1uYXVubHpvMTVlYXp3Y2Y3NjE5OGpianV0bmF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"/>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+hi+hi+hello;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Never+gonna+give+you+up;Never+gonna+let+you+down;Never+gonna+run+around+and+desert+you&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <!-- <a href="https://www.buymeacoffee.com/artemnchuk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
