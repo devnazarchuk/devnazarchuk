@@ -1,7 +1,7 @@
 # 🏄‍♂️ ✨DevNazarchuk✨
 **`Web development (Future Web developer)`**
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGprZWV2MHo3bzl1ZmttNmUzczQwbWp2MHFsbDJpMXA1ZHY3YjJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng0ZnlmcDhtNm1uYXVubHpvMTVlYXp3Y2Y3NjE5OGpianV0bmF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"/>
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+hi+hi+hello;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
