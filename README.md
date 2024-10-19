@@ -1,4 +1,4 @@
-# 🏄‍♂️ ✨Artemnchuk✨
+# 🏄‍♂️ ✨DevNazarchuk✨
 **`Web development (Future Web developer)`**
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGprZWV2MHo3bzl1ZmttNmUzczQwbWp2MHFsbDJpMXA1ZHY3YjJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"/>
@@ -39,16 +39,16 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=artemnchuk&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=170&hide_longest_streak=true)](https://git.io/streak-stats)&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=devnazarchuk&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=170&hide_longest_streak=true)](https://git.io/streak-stats)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemnchuk&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazarchuk&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemnchuk&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnazarchuk&show_icons=true&theme=transparent)
 
 ---
 
 ### ✍️ Blog Posts : 
-- [Soon](https://www.github.com/artemnchuk)
+- [Soon](https://www.github.com/devnazarchuk)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
