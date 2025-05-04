@@ -14,7 +14,7 @@
 
 I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
-- 🔭 I’m studying as a Computer Siense student.
+- 🔭 I’m studying as a Computer Science student.
 - 🌱 Learning the development interface.
 - ⚡ In my free time I solve problems on LeetCode.
 - 📫 How to reach me: **devnazarchuk@gmail.com**
