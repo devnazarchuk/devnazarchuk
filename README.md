@@ -1,5 +1,5 @@
 # 🏄‍♂️ ✨DevNazarchuk✨
-**`Web development (Future Web developer)`**
+**`Web development (Front-end developer)`**
 <p align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng0ZnlmcDhtNm1uYXVubHpvMTVlYXp3Y2Y3NjE5OGpianV0bmF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"/>
 </p>
@@ -12,7 +12,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 - 🔭 I’m studying as a Computer Science student.
 - 🌱 Learning the development interface.
