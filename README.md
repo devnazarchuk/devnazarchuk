@@ -21,6 +21,14 @@
 
 ---
 
+### 🌐 Connect with me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devnazarchuk@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnazarchuk)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devnazarchuk)  
+
+
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
@@ -51,13 +59,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazarchuk&layout=compact&theme=dark)](https://github.com/devnazarchuk)  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnazarchuk&show_icons=true&theme=dark)](https://github.com/devnazarchuk)
 
----
-
-### 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnazarchuk)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devnazarchuk)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devnazarchuk@gmail.com)
 
 ---
 
