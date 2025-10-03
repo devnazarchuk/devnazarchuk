@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artem Nazarchuk
 
-### 🌍 Frontend & Full-Stack Developer | Computer Science Student
+### 🌍 Full-Stack Developer | Computer Science Student
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working as a Frontend Developer using React, Next.js, and Tailwind CSS.
+- 🔭 I'm currently working as a Full-Stack Developer using React, Next.js, and Tailwind CSS.
 - 🎓 Studying Computer Science and expanding my full-stack skills.
 - 🌱 Actively learning advanced JavaScript, Node.js, and backend technologies.
 - ⚡ Passionate about building performant, scalable, and accessible web applications.
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
